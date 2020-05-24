@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Implementation-Title: optaplanner-pocdemo
+Automatic-Module-Name: org.oodles
+Implementation-Version: 7.37.0.Final
+Java-Version: 1.8.0_161
+Built-By: KUSHAGRA
+Scm-Connection: scm:git:git@github.com:kiegroup/optaplanner.git/optapl
+ anner-pocdemo
+Specification-Vendor: JBoss by Red Hat
+Os-Arch: amd64
+Specification-Title: optaplanner-pocdemo
+Implementation-Vendor-Id: org.oodles
+Java-Vendor: Oracle Corporation
+Os-Name: Windows 10
+Scm-Url: https://github.com/kiegroup/optaplanner/optaplanner-pocdemo
+Implementation-Vendor: JBoss by Red Hat
+Os-Version: 10.0
+Scm-Revision: 
+Build-Jdk: 1.8.0_161
+Specification-Version: 7.37
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org
+
