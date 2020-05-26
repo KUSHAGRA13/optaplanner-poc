@@ -6,6 +6,7 @@ public class Skill extends AbstractPersistable
 {
 	private String name;
 
+	
     public Skill() {
     }
 
